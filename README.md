@@ -10,9 +10,9 @@
 * Accommodation and transport recommendations
 * Natural language interaction
 
-## 🧠 Powered by Mistral-Large
+## 🧠 Powered by Granite 3-3-8b
 
-This project uses the **Mistral-large** open-weight language model to understand and respond to user queries with high-quality, context-aware travel recommendations.
+This project uses the **Granite 3-3-8b** open-weight language model to understand and respond to user queries with high-quality, context-aware travel recommendations.
 
 ## ☁️ Built on IBM Cloud
 
@@ -26,7 +26,7 @@ Key IBM Cloud services used in this project:
 ## 🚀 How It Works
 
 1. User interacts through chat
-2. Mistral-large model processes and understands travel-related queries
+2. Granite 3-3-8b model processes and understands travel-related queries
 3. IBM Cloud Functions fetch real-time data and generate responses
 4. Itinerary and suggestions are personalized and displayed
 
@@ -38,7 +38,7 @@ From weekend getaways to long vacations, MakeYourOwnTrip-Agentic-AI simplifies p
 
 ```
 /agent
-/mistral-integration
+/Granite 3-3-8b
 /cloud-functions
 README.md
 ```
