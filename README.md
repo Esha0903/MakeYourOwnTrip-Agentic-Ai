@@ -53,5 +53,5 @@ README.md
 ## 👩‍💻 Developed By
 
 **Esha Mogha**
-AI Travel Assistant using Mistral-large + IBM Cloud
+AI Travel Assistant using Granite 3-3-8b + IBM Cloud
 
